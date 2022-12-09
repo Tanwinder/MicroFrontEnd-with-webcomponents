@@ -58,7 +58,7 @@
     "dotenv": "4.0.0",
     "echarts": "4.2.0-rc.2",
     "echarts-for-react": "2.0.15-beta.0",
-    "express": "4.16.3",
+    "express": "4.17.3",
     "font-awesome": "4.7.0",
     "halogenium": "^2.3.0",
     "helmet": "^3.15.1",
